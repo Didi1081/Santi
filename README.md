@@ -1,9 +1,10 @@
 # The Santi Project
 Demo of Marketing Literature (Please Note: This is not the actual app but only a video demo.)
 
-#### Technologies Utilized
+#### Technologies & Tools Utilized
 * Adobe Photoshop
 * Adobe Illustrator 
+* HTML/CSS
 * Created SVG images that animate.
   
   
