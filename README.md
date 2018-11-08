@@ -1,5 +1,5 @@
 # The Santi Project
-Demo of Marketing Literature (Note this is not the actual app)
+Demo of Marketing Literature (Please Note: This is not the actual app but only a video Demo.)
 
 #### Technologies Utilized
 * Adobe Photoshop
