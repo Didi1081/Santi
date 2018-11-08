@@ -8,13 +8,13 @@ Demo of Marketing Literature (Please Note: This is not the actual app but only a
   
   
 ![Demo](./ss1.png)
-#### Company Logo is SVG image and is animated.
+#### Feature 1: The company logo is an SVG image and is animated.
 
 ![Demo](./ss3.png)
-#### Tabs animates when the user clicks on different tab colors.
+#### Feature 2: Tabs animates when the user clicks on different tab colors. It appears to flip each page. 
 
 ![Demo](./ss2.png)
-#### The goji berry plant grows through animation. The user is able to click on each goji berry to learn more about the plant. 
+#### Feature 3: The goji berry plant grows through animation. The user is able to click on each goji berry to learn more about the plant. 
 
 ![Demo](./ss4.png)
-#### The pineapple grows through animation. The user is also able to use the scroll bar to view all material.
+#### Feature 4: The pineapple grows through animation. The user is also able to use the scroll bar to view all material.
