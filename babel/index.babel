@@ -1,0 +1,9 @@
+// Declare Consts & Lets
+const elMonth = document.getElementById('js-month')
+const monthNames = ['','','','','','','','','','','Demo Only','']
+const today = new Date()
+const month = monthNames[today.getMonth()]
+
+
+// Write To Page
+elMonth.textContent = month
